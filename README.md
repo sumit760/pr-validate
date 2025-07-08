@@ -1,2 +1,2 @@
 # pr-validate
-Validate keyless signature in pull request
+Validate keyless signature in pull request using gitsign
